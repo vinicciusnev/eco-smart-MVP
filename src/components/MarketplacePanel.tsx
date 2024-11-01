@@ -108,7 +108,6 @@ export function MarketplacePanel() {
             />
             <div className="p-4">
               <div className="flex items-center gap-2 mb-2">
-                <div className="flex items-center gap-2 mb-2">
                 <Tag className="w-4 h-4 text-emerald-600" />
                 <span className="text-sm text-gray-600">{item.type}</span>
               </div>
